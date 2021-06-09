@@ -4,7 +4,7 @@ import { clientId, clientSecret } from '../config/integrationKeys'
 
 const BEE_TEMPLATE_URL = 'https://rsrc.getbee.io/api/templates/m-bee'
 const BEEJS_URL = 'https://app-rsrc.getbee.io/plugin/BeePlugin.js'
-const API_AUTH_URL = 'https://auth.getbee.io/apiauth'
+const API_AUTH_URL = 'https://bee-auth-secure.getbee.io/apiauth'
 
 const specialLinks = [{
   type: 'unsubscribe',

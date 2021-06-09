@@ -3,7 +3,7 @@ import beeActions from './utils/Constants'
 
 const BEEJS_URL = 'https://app-rsrc.getbee.io/plugin/BeePlugin.js'
 
-const API_AUTH_URL = 'https://auth.getbee.io/apiauth'
+const API_AUTH_URL = 'https://bee-auth-secure.getbee.io/apiauth'
 
 let beeLoaderUrl = null;
 
